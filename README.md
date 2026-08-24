@@ -167,7 +167,7 @@ pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 ```
 
-## 🗄️ Database Configuration
+##  Database Configuration
 
 Configure your database credentials using environment variables.
 
@@ -200,7 +200,7 @@ streamlit run ui.py
 ```
 
 
-## ⚡ Run Backend + UI Together
+##  Run Backend + UI Together
 
 The repository includes:
 
