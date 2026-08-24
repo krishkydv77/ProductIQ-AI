@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
+pymysql
+alembic
+pydantic
+numpy
+scikit-learn
+spacy
+streamlit
+requests

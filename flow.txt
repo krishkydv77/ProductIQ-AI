@@ -1,0 +1,12 @@
+🔹 Overall Flow (HLD)
+1.User query → API (main.py)
+
+2.Query parse → parser.py + preprocessing.py
+
+3.DB se  products fetch → db.py + models.py
+
+4.Ranking → ranker.py
+
+5.agar DB empty → seed.py auto insert 
+
+6.Final result → JSON response

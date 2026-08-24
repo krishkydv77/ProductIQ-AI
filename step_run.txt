@@ -1,0 +1,28 @@
+# ProductIQ Streamlit UI
+
+## file run
+1. create environment and activted (uv venv)
+2. uv add -r requirements.txt
+3. python -m spacy download en_core_web_sm
+
+
+
+## Run
+
+Terminal 1:
+
+```bash
+uvicorn main:app --reload
+```
+
+Terminal 2:
+
+```bash
+streamlit run streamlit_app.py
+```
+
+##option 2 Start Everything With One Command
+
+```bash
+.\start.bat
+```
